@@ -13,24 +13,24 @@ This program requires Python 3 and the following packages:
 'string'
 
 # Installation
-Clone the repository: 'git clone https://github.com/your-username/word-search-puzzle.git'
-Navigate to the project directory: 'cd word-search-puzzle'
-Run the program: 'python word_search.py'
+1. Clone the repository: 'git clone https://github.com/your-username/word-search-puzzle.git'
+2. Navigate to the project directory: 'cd word-search-puzzle'
+3. Run the program: 'python word_search.py'
 
 # How to Run
-Open a terminal window.
-Navigate to the directory where the file word_search.py is saved.
-Run the command python word_search.py.
-A new window will open, displaying the puzzle and the list of words to find.
+1. Open a terminal window.
+2. Navigate to the directory where the file word_search.py is saved.
+3. Run the command python word_search.py.
+4. A new window will open, displaying the puzzle and the list of words to find.
 
 # Usage
-Run the program using the command above.
-A new window will open showing the word search puzzle.
-Find the words in the grid by clicking and dragging with the mouse.
-Click the "Solve" button to see the solution.
-Click the "Shuffle" button to rearrange the letters in the grid.
-Click the "New Word" button to generate a new set of words.
-Click the "Undo" button to unhighlight the last highlighted word.
+1. Run the program using the command above.
+2. A new window will open showing the word search puzzle.
+3. Find the words in the grid by clicking and dragging with the mouse.
+4. Click the "Solve" button to see the solution.
+5. Click the "Shuffle" button to rearrange the letters in the grid.
+6. Click the "New Word" button to generate a new set of words.
+7. Click the "Undo" button to unhighlight the last highlighted word.
 
 # How to Play
 1. To select a word, click on the first letter of the word and drag to the last letter of the word.
