@@ -8,9 +8,10 @@ This is a word search game that allows you to generate puzzles with random words
 # Prerequisites
 This program requires Python 3 and the following packages:
 
-'tkinter'
-'random'
-'string'
+1. 'tkinter'
+2. 'random'
+3. 'string'
+4. 'os'
 
 # Installation
 1. Clone the repository: 'git clone https://github.com/your-username/word-search-puzzle.git'
