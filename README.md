@@ -43,7 +43,7 @@ Click the "Undo" button to unhighlight the last highlighted word.
 5. To solve the puzzle, click the "Solve" button.
 6. To generate a new puzzle, click the "New Word" button.
 7. To exit the game, click the "X" button in the top right corner of the window.
-Program Files
+8.Program Files
 word_search.py
 This is the main program file that generates the word search puzzle, creates the GUI, and handles user input.
 
