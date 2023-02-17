@@ -37,7 +37,7 @@ Click the "Undo" button to unhighlight the last highlighted word.
 2. If the word is correct, it will be highlighted in yellow.
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU2ODZhMzFmMTNjMmM2N2NhMTlhNjM5MmI1MDk2NDMyMGJjZDRmNiZjdD1n/CKkG45QwWmpN2ArRlX/giphy.gif" alt="gif" width="250" height="250">
 3. To undo a selection, click the "Undo" button or click on the first letter of the selected word.
-
+<img src="https://media.giphy.com/media/JOpSM4fu6Gjm1HT0sM/giphy.gif" alt="gif" width="250" height="250">
 
 4. To shuffle the puzzle grid, click the "Shuffle" button.
 
