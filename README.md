@@ -50,7 +50,7 @@ Click the "Undo" button to unhighlight the last highlighted word.
 <img src="https://media.giphy.com/media/f7ztzi4cjdS1tgTnD5/giphy.gif" alt="gif" width="250" height="250"> 
 
 7. To exit the game, click the "X" button in the top right corner of the window.
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFmZGY5NTY5OWM3YzAxZGQ3MjE4ZTdmOWVlODQ0MGQ4NWE0NTU3NCZjdD1n/aQpgxBrpTJ8NqpiaEL/giphy.gif" alt="gif" width="250" height="250">
 
 8. Program Files
 word_search.py
