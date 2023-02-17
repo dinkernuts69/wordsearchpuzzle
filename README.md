@@ -41,7 +41,7 @@ Click the "Undo" button to unhighlight the last highlighted word.
 3. To undo a selection, click the "Undo" button or click on the first letter of the selected word.
 4. To shuffle the puzzle grid, click the "Shuffle" button.
 5. To solve the puzzle, click the "Solve" button.
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0ZWRmZTJhNDRkZWUwMjlmNGZmYzdhZWU4ZWQ0YTZkNGY4ODIzZiZjdD1n/4hjFAMkZvKpkB7MWVB/giphy.gif" alt="gif" width="100" height="100"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0ZWRmZTJhNDRkZWUwMjlmNGZmYzdhZWU4ZWQ0YTZkNGY4ODIzZiZjdD1n/4hjFAMkZvKpkB7MWVB/giphy.gif" alt="gif" width="250" height="250"> 
 
 6. To generate a new puzzle, click the "New Word" button.
 8. To exit the game, click the "X" button in the top right corner of the window.
