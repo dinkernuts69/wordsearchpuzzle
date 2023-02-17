@@ -36,13 +36,13 @@ Click the "New Word" button to generate a new set of words.
 Click the "Undo" button to unhighlight the last highlighted word.
 
 # How to Play
-To select a word, click on the first letter of the word and drag to the last letter of the word./n
-If the word is correct, it will be highlighted in green./n
-To undo a selection, click the "Undo" button or click on the first letter of the selected word./n
-To shuffle the puzzle grid, click the "Shuffle" button./n
-To solve the puzzle, click the "Solve" button./n
-To generate a new puzzle, click the "New Word" button./n
-To exit the game, click the "X" button in the top right corner of the window./n
+To select a word, click on the first letter of the word and drag to the last letter of the word.
+If the word is correct, it will be highlighted in green.
+To undo a selection, click the "Undo" button or click on the first letter of the selected word.
+To shuffle the puzzle grid, click the "Shuffle" button.
+To solve the puzzle, click the "Solve" button.
+To generate a new puzzle, click the "New Word" button.
+To exit the game, click the "X" button in the top right corner of the window.
 Program Files
 word_search.py
 This is the main program file that generates the word search puzzle, creates the GUI, and handles user input.
