@@ -1,6 +1,3 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0ZWRmZTJhNDRkZWUwMjlmNGZmYzdhZWU4ZWQ0YTZkNGY4ODIzZiZjdD1n/4hjFAMkZvKpkB7MWVB/giphy.gif" alt="gif" width="100" height="100">
-
-
 # README FILE
 This is a word search game that allows you to generate puzzles with random words. The program uses the tkinter module to create a graphical user interface (GUI) that displays the puzzle grid and the list of words to find.
 
@@ -37,9 +34,14 @@ Click the "Undo" button to unhighlight the last highlighted word.
 
 # How to Play
 1. To select a word, click on the first letter of the word and drag to the last letter of the word.
-2. If the word is correct, it will be highlighted in green.
+2. If the word is correct, it will be highlighted in yellow.
+<img src="<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0ZWRmZTJhNDRkZWUwMjlmNGZmYzdhZWU4ZWQ0YTZkNGY4ODIzZiZjdD1n/4hjFAMkZvKpkB7MWVB/giphy.gif" alt="gif" width="250" height="250"> " alt="gif" width="250" height="250"> 
 3. To undo a selection, click the "Undo" button or click on the first letter of the selected word.
+
+
 4. To shuffle the puzzle grid, click the "Shuffle" button.
+
+
 5. To solve the puzzle, click the "Solve" button.
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0ZWRmZTJhNDRkZWUwMjlmNGZmYzdhZWU4ZWQ0YTZkNGY4ODIzZiZjdD1n/4hjFAMkZvKpkB7MWVB/giphy.gif" alt="gif" width="250" height="250"> 
 
