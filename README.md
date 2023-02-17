@@ -61,21 +61,21 @@ This is the main program file that generates the word search puzzle, creates the
 
 # Code Structure
 Global Variables
-.puzzle_labels: A list that stores the puzzle labels.
-.words: A list that stores the words to be used in the puzzle.
-.root: The main tkinter window.
-.button_pressed: A boolean variable that indicates whether a button has been pressed.
-.puzzle_grid: A tkinter frame that contains the puzzle labels.
-.word_list: A tkinter frame that contains the list of words to find.
-.button_grid: A tkinter frame that contains the game buttons.
+1. .puzzle_labels: A list that stores the puzzle labels.
+2. .words: A list that stores the words to be used in the puzzle.
+3. .root: The main tkinter window.
+4. .button_pressed: A boolean variable that indicates whether a button has been pressed.
+5. .puzzle_grid: A tkinter frame that contains the puzzle labels.
+6. .word_list: A tkinter frame that contains the list of words to find.
+7. .button_grid: A tkinter frame that contains the game buttons.
 
 # Functions
-.'read_words_file(file_path)': Reads a file and returns a list of words.
-.'newWords(wordFileContent)': Returns a list of random words from the given list of words.
-.'generate_puzzle(words, rows, columns)': Generates a puzzle grid with the given list of words.
-.'display_puzzle(puzzle, words)': Displays the puzzle and the list of words to find in the GUI.
-.'label_click_handler(row, col)': Handles a mouse click on a label in the puzzle grid.
-.'undo_highlight()': Unhighlights the last highlighted word.
+1. .'read_words_file(file_path)': Reads a file and returns a list of words.
+2. .'newWords(wordFileContent)': Returns a list of random words from the given list of words.
+3. .'generate_puzzle(words, rows, columns)': Generates a puzzle grid with the given list of words.
+4. .'display_puzzle(puzzle, words)': Displays the puzzle and the list of words to find in the GUI.
+5. .'label_click_handler(row, col)': Handles a mouse click on a label in the puzzle grid.
+6. .'undo_highlight()': Unhighlights the last highlighted word.
 
 # Customization
 To use your own set of words, edit the 'textfile.txt' file and save it in the project directory. Each word should be on a separate line.
