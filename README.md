@@ -36,8 +36,8 @@ Click the "New Word" button to generate a new set of words.
 Click the "Undo" button to unhighlight the last highlighted word.
 
 # How to Play
-To select a word, click on the first letter of the word and drag to the last letter of the word.
-If the word is correct, it will be highlighted in green.
+1. To select a word, click on the first letter of the word and drag to the last letter of the word.
+2. If the word is correct, it will be highlighted in green.
 To undo a selection, click the "Undo" button or click on the first letter of the selected word.
 To shuffle the puzzle grid, click the "Shuffle" button.
 To solve the puzzle, click the "Solve" button.
